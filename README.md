@@ -4,11 +4,19 @@ Hi Sobatbisnis Team, saya Gerzha Hayat Prakarsha, terima kasih atas kesempatan k
 
 Project ini saya buat dengan nama Elemovie, dan membuat gambar/logo dari Aplikasi ini menggunakan https://www.tailorbrands.com/. Bisa dijalankan di Android dan Ios.
 
-# Dokumentasi Penginstalan dan Jalankan Program
+# Dokumentasi Penginstalan dan Jalankan Program (Android)
 
 1. Download dan Extract Source Code
 2. Flutter pub get
 3. Flutter run
+
+# Dokumentasi Penginstalan dan Jalankan Program (Ios)
+
+1. Download dan Extract Source Code
+2. Flutter pub get
+3. cd ios
+4. pod install
+5. Flutter run
 
 # Login User dan Password di App
 
