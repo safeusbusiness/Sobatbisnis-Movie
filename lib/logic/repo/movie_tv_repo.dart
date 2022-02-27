@@ -87,8 +87,7 @@ class MovieTvRepo {
           model.section = sectionString;
           return model;
         }).toList();
-        return await onGetListDetailMovieTv(
-            list: list, isMovie: movieDBSection != null);
+        return list;
       } else {
         return null;
       }
